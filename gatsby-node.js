@@ -5,7 +5,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   const pages = await graphql(`
     {
-      allCaseStudy {
+      allCase_Study {
         edges {
           node {
             id
