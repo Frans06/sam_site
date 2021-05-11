@@ -24,7 +24,7 @@
     "gatsby-source-filesystem": "^2.2.2",
     "gatsby-source-prismic": "^3.0.0",
     "gatsby-transformer-sharp": "^2.4.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "polished": "^3.5.1",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
