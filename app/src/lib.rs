@@ -66,8 +66,6 @@ fn Header() -> impl IntoView {
                     </p>
                     <div class="flex flex-col md:flex-row justify-center items-center gap-4 md:gap-8 animate-fade-in">
                         <ContactItem icon="📍" text="Toronto, ON"/>
-                        <ContactItem icon="📞" text="(437) 439-4156"/>
-                        <ContactItem icon="📧" text="sam.divs@gmail.com"/>
                         <ContactItem icon="💼" text="LinkedIn Profile"/>
                     </div>
                 </div>
